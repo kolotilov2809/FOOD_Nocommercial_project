@@ -1,0 +1,23 @@
+{
+  "name": "food.loc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolotilov2809/FOOD_No_commercial_project.git"
+  },
+  "author": "Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolotilov2809/FOOD_No_commercial_project/issues"
+  },
+  "homepage": "https://github.com/kolotilov2809/FOOD_No_commercial_project#readme",
+  "devDependencies": {
+    "json-server": "^0.16.1"
+  },
+  "dependencies": {},
+  "description": ""
+}
